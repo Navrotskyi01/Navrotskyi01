@@ -1,4 +1,4 @@
-# Hi there, I'm Nazari 👋
+# Hi there, I'm Nazar 👋
 
 - 🎓 **Education:** Remote Software Engineering Student
 - 💻 **Tech Stack:** C++, Algorithms, Higher Mathematics
