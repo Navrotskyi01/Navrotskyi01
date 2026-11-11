@@ -13,4 +13,4 @@
 ---
 
 📫 **How to reach me:**
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: (https://github.com/Navrotskyi01)
